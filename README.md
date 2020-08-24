@@ -45,18 +45,3 @@ Design 2: If we create
 
 
 > Description of Functions/Class
-
-### Map
-
-
-### Zip
-This function calculates powers in given range for given positive number. 
-
-### polygon_area
-This function calculates area of polygon with sides >3 and 6.
-
-### temp_converter
-This function converts temperature scale between Farenheit and Celcius.
-
-### speed_converter
-This function converts speed in kmph to combination of dist in km/m/ft/yrd and time in be ms/s/m/hr/day
